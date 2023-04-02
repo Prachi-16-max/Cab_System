@@ -19,12 +19,13 @@ For Frontend :
 ### script.js
 ### style.css
 
-### Function Of Javascript
-Script.js
+### Function Of Script.js
 - calculate() To calculate and display the Start node And End Node.
-
 - solveDijkstras() - function to find the shortest path between the distance of start and end node.
 - renderGraph() - to Display the Graph.
+
+### Function Of server.js
+- For Email Service.
 
 
 ### For Backend
